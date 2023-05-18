@@ -77,19 +77,3 @@ This function applies rule 6, which is if the payment method is Visa, apply a 5%
 * java.sql.DriverManager
 * scala.concurrent.ExecutionContext.Implicits.global
 * scala.concurrent.Future
-## Installation
-
-1. Clone this repository
-
-2. Install the required dependencies
-
-3. Compile the code using the following command:
-```
-scalac DiscountEngineCSV_to_Database.scala
-```
-
-## Usage
-Start the program by running the following command:
-```
-scala Main Directory
-```
